@@ -37,11 +37,7 @@ This project focuses on building a comprehensive *Sales Dashboard* using *Micros
 
 ---
 
-## 📷 Dashboard Preview
 
-![Dashboard Preview](https://github.com/AsadNawaz01/Coffee_Shop_Sales_Analysis_Excel/blob/main/Dashboard.png)
-
----
 
 ## 🚀 Getting Started
 
