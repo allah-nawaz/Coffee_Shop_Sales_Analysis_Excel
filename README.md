@@ -63,9 +63,3 @@ Feel free to fork the repo, try it out, and suggest improvements!
 I'm always open to collaborations and new ideas.
 
 ---
-
-## 🔗 Connect with Me
-
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/asad-nawaz-711670264/) or reach out via email for feedback or collaboration opportunities.
-
----
