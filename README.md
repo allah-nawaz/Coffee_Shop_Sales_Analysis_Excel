@@ -1,8 +1,6 @@
-# ☕ Coffee Shop Sales Dashboard – Excel Project
+# ☕ Coffee Shop Sales Dashboard Excel Project
 
-![Coffee Shop Dashboard](https://github.com/AsadNawaz01/Coffee_Shop_Sales_Analysis_Excel/blob/main/Dashboard.png)
-
-## 📌 Project Overview
+## Project Overview
 
 This project focuses on building a comprehensive *Sales Dashboard* using *Microsoft Excel* to analyze and visualize data from a coffee shop chain. The dashboard is designed to help stakeholders gain key business insights such as hourly trends, product performance, and store-wise contributions.
 
@@ -16,7 +14,11 @@ This project focuses on building a comprehensive *Sales Dashboard* using *Micros
 
 ---
 
-## 🔍 Key Insights
+## Dashboard
+
+![Coffee Shop Dashboard](https://github.com/AsadNawaz01/Coffee_Shop_Sales_Analysis_Excel/blob/main/Dashboard.png)
+
+## Key Insights
 
 - *Top Hours: Highest number of orders placed between **7 AM – 11 AM*.
 - *Product Category: **Coffee* is the best-performing product category, with *39%* of the total orders.
@@ -37,23 +39,12 @@ This project focuses on building a comprehensive *Sales Dashboard* using *Micros
 
 ---
 
-
-
-## 🚀 Getting Started
+## Getting Started
 
 1. Open the Coffee_Shop_Sales_Dashboard.xlsx file in Microsoft Excel.
 2. Navigate through the *Dashboard* sheet.
 3. Use *Slicers* to filter and interact with the data dynamically.
 4. Explore the raw data and transformation steps using Power Query (if you're interested in backend logic).
-
----
-
-## 🧠 Learning Outcome
-
-This project helped me to:
-- Apply real-world data analysis using Excel
-- Create meaningful visualizations and tell a compelling data story
-- Improve dashboard design aesthetics for stakeholder presentations
 
 ---
 
